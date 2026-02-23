@@ -17,6 +17,7 @@
     <nav class="nav">
         <h2 class="logo">Mayuri Wakode</h2>
         <ul class="nav-links">
+
             <li><a href="#home">Home</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#skills">Skills</a></li>
@@ -30,35 +31,13 @@
     <div class="home-content">
         <h1>Hi, I'm <span>Mayuri</span></h1>
         <h3>Web Developer</h3>
-        <a href="#contact" class="btn">Contact Me</a>
-    </div>
-</section><!-- ===== PROJECTS ===== -->
-<section id="projects" class="projects">
-    <h2>My Projects</h2>
-
-    <div class="project-container">
-
-        <div class="project-card">
-            <h3>Portfolio Website</h3>
-            <p>Personal portfolio created using HTML and CSS.</p>
-        </div>
-
-        <div class="project-card">
-            <h3>Tourism of India</h3>
-            <p>A website project showing tourist places in India.</p>
-        </div>
-
-        <div class="project-card">
-            <h3>Book My Show Clone</h3>
-            <p>Frontend clone project for movie booking platform.</p>
-        </div>
-
-    </div>
-</section>
-
-
-
-<!-- ===== ABOUT SECTION ===== -->
+        <a href="#contact" class="btn">Contact Me</a> <br>
+        <a href="mayuri_cv.pdf" download class="btn">Download CV</a>
+        <a href="mayuri_cv.pdf" target="_blank" class="btn">View CV</a>
+    </div> <br>
+    <br>
+</section><br>
+    <!-- ===== ABOUT SECTION ===== -->
 <section id="about" class="about">
     <h2>About Me</h2>
     <p>
@@ -68,7 +47,6 @@
         I am always eager to learn new technologies and improve my skills.
     </p>
 </section>
-
 <!-- ===== SKILLS SECTION ===== -->
 <section id="skills" class="skills">
     <h2>My Skills</h2>
@@ -88,6 +66,60 @@
         <div class="skill-bar"><div class="js"></div></div>
     </div>
 
+</section>
+</section><!-- ===== PROJECTS ===== -->
+<section id="projects" class="projects">
+    <h2>My Projects</h2>
+
+    <div class="project-container">
+
+        <div class="project-card">
+            <h3>Portfolio Website</h3>
+            <p>Personal portfolio created using HTML and CSS.</p>
+        </div>
+
+        <div class="project-card">
+            <h3>Tourism of India</h3>
+            <p>A website project showing tourist places in India.</p>
+        </div>
+
+
+    </div>
+</section>
+
+<section id="education" class="education">
+    <h2>Education</h2>
+    <div class="edu-box">
+        <h3>Bachelor of Computer Applications (BCA)</h3>
+        <p>Saraswati College — Final Year (Pursuing)</p>
+    </div>
+
+    <div class="edu-box">
+        <h3>HSC (12th)</h3>
+        <p>65.17% — 2022–2023</p>
+    </div>
+
+    <div class="edu-box">
+        <h3>SSC (10th)</h3>
+        <p>89.80% — 2020–2021</p>
+    </div>
+</section>
+
+<section id="experience" class="experience">
+    <h2>Internship Experience</h2>
+
+    <div class="exp-box">
+        <h3>Frontend Developer Intern</h3>
+        <p>Microspectra Pvt. Ltd.</p>
+        <p>Worked on basic frontend web pages using HTML & CSS.</p>
+    </div>
+</section>
+
+<section id="certifications" class="certifications">
+    <h2>Certifications</h2>
+    <div class="cert-box">
+        <p>Core Java — Coursera</p>
+    </div>
 </section>
 
 <!-- ===== CONTACT SECTION ===== -->
