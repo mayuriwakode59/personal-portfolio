@@ -30,6 +30,7 @@
 <!-- ===== HOME SECTION ===== -->
 <section id="home" class="home">
     <div class="home-content">
+        <h1> Welcome To my Portfolio</h1>
         <h1>Hi, I'm <span>Mayuri</span></h1>
         <h3>Web Developer</h3>
         <a href="#contact" class="btn">Contact Me</a> <br>
@@ -125,6 +126,42 @@
 </section>
 
 <!-- ===== CONTACT SECTION ===== -->
+ <!-- ===== CONTACT SECTION ===== -->
+<section id="contact" class="contact">
+    <h2>Contact Me</h2>
+
+    <form action="https://formspree.io/f/YOUR_ID" method="POST" class="contact-form">
+        
+        <input type="text" name="name" placeholder="Your Name" required>
+
+        <input type="email" name="email" placeholder="Your Email" required>
+
+        <textarea name="message" rows="5" placeholder="Your Message" required></textarea>
+
+        <button type="submit" class="btn">Send Message</button>
+
+    </form>
+
+    <br>
+
+    <p>Email: mayuriwakode59@gmail.com</p>
+    <p>Phone: +91 9422466975</p>
+
+    <p>
+        LinkedIn: 
+        <a href="https://www.linkedin.com/in/mayuri-wakode-ab8018287/" target="_blank">
+            View Profile
+        </a>
+    </p>
+
+    <p>
+        GitHub: 
+        <a href="https://github.com/mayuriwakode59/personal-portfolio" target="_blank">
+            View GitHub
+        </a>
+    </p>
+
+</section>
 <section id="contact" class="contact">
     <h2>Contact Me</h2>
     <p>Email: mayuriwakode59@gmail.com</p>
