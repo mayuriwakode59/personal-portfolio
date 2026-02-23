@@ -119,6 +119,48 @@ h2{
     text-align:center;
     margin-bottom:30px;
 }
+
+.education{
+    background:#f1f5f9;
+    text-align:center;
+}
+
+.edu-box{
+    background:white;
+    margin:20px auto;
+    padding:20px;
+    max-width:500px;
+    border-radius:8px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.1);
+}
+
+.experience{
+    background:#ffffff;
+    text-align:center;
+}
+
+.exp-box{
+    background:#f8fafc;
+    margin:20px auto;
+    padding:20px;
+    max-width:500px;
+    border-radius:8px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.1);
+}
+
+.certifications{
+    background:#f1f5f9;
+    text-align:center;
+}
+
+.cert-box{
+    background:white;
+    margin:20px auto;
+    padding:15px;
+    max-width:400px;
+    border-radius:8px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.1);
+}
 /* TYPING ANIMATION */
 
 .typing{
